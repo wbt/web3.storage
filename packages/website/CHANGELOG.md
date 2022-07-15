@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.11.0](https://github.com/web3-storage/web3.storage/compare/website-v2.10.1...website-v2.11.0) (2022-07-15)
+
+
+### Features
+
+* contact ([#1637](https://github.com/web3-storage/web3.storage/issues/1637)) ([8599408](https://github.com/web3-storage/web3.storage/commit/85994082778c3907368a8cbd386d4d7b47426db8))
+
 ## [2.10.1](https://github.com/web3-storage/web3.storage/compare/website-v2.10.0...website-v2.10.1) (2022-07-11)
 
 
